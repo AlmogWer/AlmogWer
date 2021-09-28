@@ -12,3 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=almogwer&show_icons=true&locale=en&theme=tokyonight&count_private=true&hide=issues,contribs,prs" alt="almogwer" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AlmogWer&theme=tokyonight" alt="almogwer-github-streak" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almogwer&langs_count=8&theme=tokyonight" alt="almogwer-languages" /></p>
